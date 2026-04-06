@@ -48,3 +48,21 @@ git push origin {브랜치 이름}
 ### 7. Github 사이트에서 Pull Request 보내기
 > 깃허브의 Pull Request는 나의 변경사항을 저장소에 Pull 해달라고 요청하는 기능입니다.
 
+변경사항을 본인의 원격 레포지토리에 push 했다면 아래 이미지와 같이 "Compare & pull request" 버튼이 생깁니다.
+<img width="1565" height="345" alt="pull_request_1_maked" src="https://github.com/user-attachments/assets/c698c9a2-834c-4e60-8c44-6daf5fc3d6b6" />
+
+만약 위 버튼이 생기지 않는다면 아래 이미지처럼 좌측 상단에 "Pull requests" 메뉴를 클릭합니다.
+<img width="1721" height="295" alt="pull_request_4_maked" src="https://github.com/user-attachments/assets/50421d96-8086-4ca3-8113-8efdbf38ea84" />
+
+그 다음 아래 이미지처럼 "New pull request" 초록색 버튼을 클릭합니다.
+<img width="1726" height="513" alt="pull_request_5_maked" src="https://github.com/user-attachments/assets/e10f5249-abdf-4890-bcc6-6a905492009d" />
+
+아래 이미지에 있는 분홍색 첫 번째 박스 안에 drop-down 리스트를 클릭하고 본인의 깃 ID로 된 브랜치를 선택합니다.
+<img width="1697" height="652" alt="pull_request_6_maked" src="https://github.com/user-attachments/assets/f114685d-19a6-46f0-8b38-07854caa1f3f" />
+
+그 후 "Create pull request" 초록색 버튼을 클릭합니다.
+<img width="1547" height="398" alt="pull_request_7_maked" src="https://github.com/user-attachments/assets/43bc55e7-0aef-4eb8-8f89-2f57bc75e1b8" />
+
++ Pull Request 제목은 [n주차 과제] 이름 과제 형식으로 작성해주세요.
++ 현재 과제에서 작업한 내용을 입력하고 "Create pull request" 버튼을 클릭해 Pull Request를 보내주세요.
+<img width="1555" height="858" alt="pull_request_8_maked" src="https://github.com/user-attachments/assets/0ddcf7a6-fec1-4e71-87a0-206890cb8db1" />
